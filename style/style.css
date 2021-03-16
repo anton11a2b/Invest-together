@@ -77,3 +77,29 @@ body {
 	background-repeat: no-repeat;
 	background-image: url(../img/linkedin.svg);
 }
+
+.main__form fieldset {
+	border: none;
+}
+
+.main__form legend {
+	margin: 0 auto;
+	font-weight: 500;
+	font-size: 0.65rem;
+}
+
+.main__form-dataEntry {
+	display: flex;
+}
+
+.email {
+	width: 18em;
+	height: 4em;
+	margin: 3em 1.5em 2.4em 4em;
+}
+
+.phone {
+	width: 18em;
+	height: 4em;
+	margin: 3em 0 2.4em 1.5em;
+}
