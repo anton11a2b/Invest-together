@@ -103,3 +103,29 @@ body {
 	height: 4em;
 	margin: 3em 0 2.4em 1.5em;
 }
+
+.main__form-investType-title {
+	margin: 0 0 3em 3.4em;
+}
+
+.main__form-investType-title h2 {
+	font-weight: 500;
+	font-size: 1.3rem;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+
+.main__form-investType-title p {
+	color: #7B8A92;
+	font-size: 0.85rem;
+}
+
+.main__form-investType-radio {
+	margin: 0 0 2.3em 3.4em;
+}
+
+.investor {
+	font-weight: 500;
+	font-size: 0.9rem;
+	padding-right: 4em;
+}
