@@ -7,3 +7,29 @@ html {
 *:after {
 	box-sizing: inherit;
 }
+
+body {
+	margin: 0;
+	padding: 0;
+	color: #2A4A5C;
+	font-weight: 400;
+	font-family: BARLOW;
+	background-color: #EFF6FF;
+}
+
+.container {
+	display: flex;
+	margin: 6em 5em;
+	background-color: #FFF;
+}
+
+.container__logo {
+	width: 58%;
+	background-repeat: no-repeat;
+	background-image: url(../img/bg.jpg);
+}
+
+.logo {
+	width: 130px;
+	margin: 3em 0 0 3em;
+}
