@@ -33,3 +33,47 @@ body {
 	width: 130px;
 	margin: 3em 0 0 3em;
 }
+
+.container__main {
+	width: 52%;
+}
+
+.container__main-title {
+	margin: 6em 0 0 5em;
+}
+
+.container__main-title h1 {
+	font-size: 1.7rem;
+	font-weight: 500;
+}
+
+.container__main-title p {
+	color: #7B8A92;
+	font-size: 1.1rem;
+	font-weight: 400;
+}
+
+.container__main-btn {
+	margin: 4em 0 3em 5em;
+}
+
+.facebook {
+	color: #fff;
+	height: 3em;
+	width: 17.5em;
+	margin-right: 2.5em;
+	background-color: #255A9B;
+	background-repeat: no-repeat;
+	background-image: url(../img/facebook.svg);
+}
+
+.linkedin {
+	color: #fff;
+	height: 3em;
+	width: 17.5em;
+	margin-right: 2.5em;
+	background-size: 16%;
+	background-color: #0076B6;
+	background-repeat: no-repeat;
+	background-image: url(../img/linkedin.svg);
+}
