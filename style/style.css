@@ -60,6 +60,7 @@ body {
 .facebook {
 	color: #fff;
 	height: 3em;
+	border: none;
 	width: 17.5em;
 	margin-right: 2.5em;
 	background-color: #255A9B;
@@ -70,6 +71,7 @@ body {
 .linkedin {
 	color: #fff;
 	height: 3em;
+	border: none;
 	width: 17.5em;
 	margin-right: 2.5em;
 	background-size: 16%;
@@ -121,11 +123,39 @@ body {
 }
 
 .main__form-investType-radio {
-	margin: 0 0 2.3em 3.4em;
+	margin: 0 0 1.4em 3.4em;
 }
 
 .investor {
+	color: #000;
 	font-weight: 500;
 	font-size: 0.9rem;
 	padding-right: 4em;
+}
+
+.main__form-investType-info {
+	width: 19em;
+	color: #96A5B1;
+	padding: 0.6em;
+	font-size: 0.8rem;
+	margin: 0 0 3.2em 4.7em;
+}
+
+.main__form-agreementTerms {
+	color: #96A5B1;
+	display: block;
+	font-size: 0.8rem;
+	margin: 0 0 4.7em 3.7em;
+}
+
+.main__form-btn {
+	color: #fff;
+	border: none;
+	height: 2.7em;
+	width: 16em;
+	font-size: 0.9rem;
+	margin-right: 2.5em;
+	border-radius: 0.3em;
+	margin: 0 0 6.7em 3.8em;
+	background-color: #3698FB;
 }
