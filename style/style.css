@@ -84,10 +84,24 @@ body {
 	border: none;
 }
 
+.line_1 {
+	top: 418px;
+	width: 10em;
+	position: absolute;
+	margin-left: -110px;
+}
+
 .main__form legend {
-	margin: 0 auto;
+	margin-left: 29.55em;
 	font-weight: 500;
 	font-size: 0.65rem;
+}
+
+.line_2 {
+	top: 418px;
+	width: 10em;
+	position: absolute;
+	margin-left: 20px;
 }
 
 .main__form-dataEntry {
@@ -95,14 +109,16 @@ body {
 }
 
 .email {
-	width: 18em;
 	height: 4em;
-	margin: 3em 1.5em 2.4em 4em;
+	width: 17.6em;
+	border: 1px solid #AFAFAF;
+	margin: 3em 1.2em 2.4em 4.8em;
 }
 
 .phone {
-	width: 18em;
 	height: 4em;
+	width: 17.6em;
+	border: 1px solid #AFAFAF;
 	margin: 3em 0 2.4em 1.5em;
 }
 
