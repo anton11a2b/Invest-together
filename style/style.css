@@ -24,7 +24,7 @@ body {
 }
 
 .container__logo {
-	width: 58%;
+	width: 53%;
 	background-repeat: no-repeat;
 	background-image: url(../img/bg.jpg);
 }
@@ -35,7 +35,7 @@ body {
 }
 
 .container__main {
-	width: 52%;
+	width: 47%;
 }
 
 .container__main-title {
@@ -92,9 +92,9 @@ body {
 }
 
 .main__form legend {
-	margin-left: 29.55em;
 	font-weight: 500;
 	font-size: 0.65rem;
+	margin-left: 29.25em;
 }
 
 .line_2 {
@@ -109,17 +109,31 @@ body {
 }
 
 .email {
-	height: 4em;
-	width: 17.6em;
-	border: 1px solid #AFAFAF;
-	margin: 3em 1.2em 2.4em 4.8em;
+	height: 3.2em;
+	width: 14.7em;
+	color: #7B8A92;
+	padding-left: 0.5em;
+	border: 1px solid #EEEEEE;
+	border-radius: 0 0.3em 0 0;
+	margin: 2.7em 1.2em 2.4em 3.8em;
+}
+
+.email input {
+	border: none;
 }
 
 .phone {
-	height: 4em;
-	width: 17.6em;
-	border: 1px solid #AFAFAF;
-	margin: 3em 0 2.4em 1.5em;
+	height: 3.2em;
+	width: 14.7em;
+	color: #7B8A92;
+	padding-left: 0.5em;
+	border: 1px solid #EEEEEE;
+	margin: 2.7em 0 2.4em 1em;
+	border-radius: 0 0.3em 0.3em 0;
+}
+
+.phone input {
+	border: none;
 }
 
 .main__form-investType-title {
